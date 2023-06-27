@@ -1,0 +1,147 @@
+.cuerpo {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: #363232;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+p {
+    font-weight: 400;
+}
+
+.titulo {
+    border-radius: 13px;
+    margin: 30px;
+    background-color: lightgrey;
+    padding: 20px;
+    background:linear-gradient(#FEFEFE,#888888);
+}
+
+img {
+    border-radius: 15px;
+}
+
+
+
+
+.secciones {
+    display:block;
+    padding: 10px 15;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    
+}
+
+#color:hover {
+    color: #c7bc19;
+    
+}
+
+.integrante1 {
+    padding: 15px;
+    background: rgb(220, 220, 225);
+    padding: 3em 0;
+    background:linear-gradient(#FEFEFE,#888888);
+}
+
+
+#hobbies {
+    padding-right: 20px;
+    display: block;
+}
+
+#hobbie {
+    background: rgb(157, 134, 134);
+    border-radius: 10px;
+}
+
+
+.integrante2 {
+    padding: 3em 0;
+    background:linear-gradient(#FEFEFE,#888888);
+    
+}
+
+#hobbies2 {
+    padding-right: 20px;
+    display: block;
+}
+
+#hobbie2 {
+    background: rgb(157, 134, 134);
+    border-radius: 10px;
+}
+
+
+.integrante3 {
+    padding: 3em 0;
+    background:linear-gradient(#FEFEFE,#888888);
+}
+
+
+#hobbies3 {
+    padding-right: 20px;
+    display: block;
+}
+
+#hobbie3 {
+    background: rgb(157, 134, 134);
+    border-radius: 10px;
+}
+
+
+.integrante4 {
+    padding: 3em 0;
+    background:linear-gradient(#FEFEFE,#888888);
+}
+
+#hobbies4 {
+    padding-right: 10px;
+    display: block;
+}
+
+#hobbie4 {
+    background: rgb(157, 134, 134);
+    border-radius: 10px;
+}
+
+
+.integrante5 {
+    padding: 3em 0;
+    background:linear-gradient(#FEFEFE,#888888);
+}
+
+#hobbies5 {
+    padding-right: 10px;
+    display: block;
+}
+
+#hobbie5 {
+    background: rgb(157, 134, 134);
+    border-radius: 10px;
+}
+
+.integrante6 {
+    padding: 3em 0;
+    background:linear-gradient(#FEFEFE,#888888);
+}
+
+#hobbies6 {
+    padding-right: 10px;
+    display: block;
+}
+
+#hobbie6 {
+    background: rgb(157, 134, 134);
+    border-radius: 10px;
+}
